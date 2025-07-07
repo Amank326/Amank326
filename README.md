@@ -25,7 +25,9 @@ I focus on designing scalable, secure, and efficient software solutions powered 
 www.linkedin.com/in/aman-kumar-gupta-6493bb32a
 
 ---
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="700" alt="animated">
 
+</div>
 ### 💻 Tech Stack
 
 - **Languages:** Java, JavaScript, HTML, CSS 
